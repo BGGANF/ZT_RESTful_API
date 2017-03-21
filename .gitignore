@@ -1,0 +1,13 @@
+config/my.php
+data/*
+release/*
+tmp/extensions/*
+tmp/log/*
+tmp/model/*
+tmp/cache/*
+tmp/extension/*
+.gitkeep
+.idea/
+.DS_Store
+*.swp
+tags
